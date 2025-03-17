@@ -1,5 +1,5 @@
 # 🎙️ Voice Over Vision Assistant (VOVA)
-![image](https://github.com/user-attachments/assets/e4ffae5b-1bd5-4bd9-9149-043273a50111) ![image](https://github.com/user-attachments/assets/a8a3ced8-ee6a-4b79-8c09-3dcbe069ea45)
+![image](https://github.com/user-attachments/assets/e4ffae5b-1bd5-4bd9-9149-043273a50111)
 ![image](https://github.com/user-attachments/assets/975bbba7-e618-455d-a080-8b29bd192594)
 
 ## 🧠 Overview
